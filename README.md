@@ -25,6 +25,18 @@ This repository contains a detailed framework for technical leaders and developm
 
 ## What's Inside
 
+### [Introduction: Copilot vs. Agent Skills](github-copilot-agent-skills-intro.md) ⭐ START HERE
+
+A concise comparison guide (~750 words) for team leads and engineering managers:
+
+- **Quick Comparison Table** - Side-by-side view of standard Copilot vs. agent skills
+- **Key Benefits for Teams** - Productivity gains, quality improvements, and risk reduction with concrete examples
+- **What Agent Skills Enable** - 8 capabilities that standard Copilot doesn't offer
+- **When to Consider Agent Skills** - Decision criteria based on team size, security needs, and technical debt
+- **Getting Started Path** - Simple 4-step evaluation approach for busy managers
+
+**Who should read this:** Team leads and managers evaluating whether to explore agent skills beyond standard Copilot.
+
 ### [GitHub Copilot Agent Skills Guide](github-copilot-agent-skills-guide.md)
 
 A 3,000+ word comprehensive document covering:
@@ -77,7 +89,9 @@ A concise 1-page reference (~600 words) for developers and architects:
 
 ## Quick Start
 
-**Need a fast overview?** Start with the [Quick Reference Guide](github-copilot-agent-skills-quick-reference.md) for a 1-page summary.
+**Are you a team lead or manager?** Start with the [Introduction: Copilot vs. Agent Skills](github-copilot-agent-skills-intro.md) to understand the difference and value proposition (~5 minutes).
+
+**Are you a developer or architect?** Use the [Quick Reference Guide](github-copilot-agent-skills-quick-reference.md) for a tactical 1-page summary.
 
 **For comprehensive planning:**
 
