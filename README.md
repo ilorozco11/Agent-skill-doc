@@ -25,9 +25,21 @@ This repository contains a detailed framework for technical leaders and developm
 
 ## What's Inside
 
-### [Introduction: Copilot vs. Agent Skills](github-copilot-agent-skills-intro.md) ⭐ START HERE
+### [Why Use Agent Skills?](why-use-agent-skills.md) ⚡ QUICKEST START
 
-A concise comparison guide (~750 words) for team leads and engineering managers:
+An ultra-concise value proposition (~400 words) for developers and architects:
+
+- **Core Value** - What agent skills do beyond code completion
+- **4 Key Technical Benefits** - Automation, quality, testing, and debt reduction with concrete examples
+- **Developer-Focused Examples** - Test generation, security detection, refactoring, and architecture guidance
+- **When It Makes Sense** - Project and team characteristics that benefit most
+- **Next Steps** - Quick paths to evaluation and implementation
+
+**Who should read this:** Developers and architects who need a quick, compelling answer to "Why should I use agent skills?"
+
+### [Introduction: Copilot vs. Agent Skills](github-copilot-agent-skills-intro.md) ⭐ DETAILED COMPARISON
+
+A comparison guide (~750 words) for team leads and engineering managers:
 
 - **Quick Comparison Table** - Side-by-side view of standard Copilot vs. agent skills
 - **Key Benefits for Teams** - Productivity gains, quality improvements, and risk reduction with concrete examples
@@ -89,7 +101,9 @@ A concise 1-page reference (~600 words) for developers and architects:
 
 ## Quick Start
 
-**Are you a team lead or manager?** Start with the [Introduction: Copilot vs. Agent Skills](github-copilot-agent-skills-intro.md) to understand the difference and value proposition (~5 minutes).
+**Need the fastest overview?** Read [Why Use Agent Skills?](why-use-agent-skills.md) for a focused 2-minute value proposition (~60-90 seconds).
+
+**Are you a team lead or manager?** Start with the [Introduction: Copilot vs. Agent Skills](github-copilot-agent-skills-intro.md) to understand the difference and detailed comparison (~5 minutes).
 
 **Are you a developer or architect?** Use the [Quick Reference Guide](github-copilot-agent-skills-quick-reference.md) for a tactical 1-page summary.
 
