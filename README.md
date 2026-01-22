@@ -37,6 +37,17 @@ A 3,000+ word comprehensive document covering:
 - **Decision Matrix** - Practical scoring template with real-world scenarios
 - **Getting Started Checklist** - Actionable steps from week 1 to full deployment
 
+### [Quick Reference Guide](github-copilot-agent-skills-quick-reference.md)
+
+A concise 1-page reference (~600 words) for developers and architects:
+
+- **The 8 Agent Skills** - Table format with use cases and priority phases
+- **Quick Decision Framework** - Fast assessment criteria for project fit
+- **3-Phase Implementation** - Timeline, team size, and success metrics at a glance
+- **Essential Best Practices** - 5 critical practices for successful adoption
+- **Getting Started Checklist** - 5-step action plan to begin immediately
+- **Printable Format** - Optimized for desk reference or team distribution
+
 ## Who Should Use This Guide
 
 - **Technical Leaders & Architects** - Making strategic decisions about AI tool adoption
@@ -65,6 +76,10 @@ A 3,000+ word comprehensive document covering:
 - Quality vs. speed trade-offs
 
 ## Quick Start
+
+**Need a fast overview?** Start with the [Quick Reference Guide](github-copilot-agent-skills-quick-reference.md) for a 1-page summary.
+
+**For comprehensive planning:**
 
 1. **Read the Introduction** - Understand what agent skills are and why they matter
 2. **Review the Decision Framework** - Assess your project, team, and organizational context
