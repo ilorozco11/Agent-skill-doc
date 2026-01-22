@@ -2,6 +2,23 @@
 
 A comprehensive guide for evaluating, adopting, and implementing GitHub Copilot agent skills in software development teams.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [What's Inside](#whats-inside)
+- [Who Should Use This Guide](#who-should-use-this-guide)
+- [Key Features](#key-features)
+- [Quick Start](#quick-start)
+- [Document Structure](#document-structure)
+- [Sample Use Cases](#sample-use-cases)
+- [Key Principles](#key-principles)
+- [Implementation Phases](#implementation-phases)
+- [Success Metrics](#success-metrics)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [License](#license)
+- [Version](#version)
+
 ## Overview
 
 This repository contains a detailed framework for technical leaders and development teams to make informed decisions about adopting GitHub Copilot's agent skills capabilities. The guide addresses the complete journey from initial evaluation through full-scale implementation.
